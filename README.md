@@ -2,7 +2,7 @@
 Yirang's portfolio
 
 # 기술스텍
-- JAVA Javascript python
+- JAVA, Javascript, python
 - React, next.js
 
 # 프로젝트
